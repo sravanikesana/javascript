@@ -1,0 +1,11 @@
+.completed {
+    color: yellowgreen;
+    background-color: brown;
+    text-decoration: line-through;
+}
+body{
+    background-color: aquamarine;
+}
+#toDoList{
+    color: red;
+}
